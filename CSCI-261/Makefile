@@ -18,9 +18,6 @@ CXX=clang++
 # Fedora:
 #     sudo yum install SFML
 #
-# macOS / OS X using Homebrew:
-#     sudo brew install sfml
-#
 # And come to LUG!
 
 all: $(TARGETS)
